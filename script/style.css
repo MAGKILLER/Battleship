@@ -3,7 +3,7 @@ body{
     margin:auto;
     font-family: Airborne, sans-serif;
     background-color: "black";
-    background-image: url(image/footer_lodyas.png);
+    background-image: url(../image/footer_lodyas.png);
     text-shadow: 0 0 5px green;
     color: azure;
 }
@@ -25,7 +25,7 @@ canvas{
 }
 @font-face {
     font-family: Airborne;
-    src: url(airborne.ttf);
+    src: url(../media/airborne.ttf);
 }
 
 button{
