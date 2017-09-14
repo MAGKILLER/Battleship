@@ -1,4 +1,4 @@
 # Battleship
 
 Javascript game.
-Demo Http://magkiller.com/battleship
+Demo Http://magkiller.com/Demo/battleship
